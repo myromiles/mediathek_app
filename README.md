@@ -9,14 +9,14 @@ Eine moderne Flutter-App für den unkomplizierten Zugriff auf Mediathek-Inhalte 
 
     Favoriten & Verlauf: Behalte deine Lieblingssendungen im Blick.
 
-📥 Installation
+### 📥 Installation
+1. Lade die APK direkt hier herunter: [📥 app-release.apk herunterladen](https://github.com/myromiles/mediathek_app/releases/download/v1.0.0/app-release.apk)
+   *(Oder schaue auf der [Releases-Seite](https://github.com/myromiles/mediathek_app/releases/latest) nach zukünftigen Updates).*
+2. Installiere die APK auf deinem Android-Gerät.
+3. App öffnen und genießen!
+### 
 
-    Lade die angehängte app-release.apk direkt hier unter den Assets herunter.
-
-    Installiere die APK auf deinem Android-Gerät (evtl. müssen Installationen aus unbekannten Quellen erlaubt werden).
-
-    App öffnen und genießen!
-### ☕ Support My Work
+☕ Support My Work
 Wenn dir meine Projekte gefallen und du meine Arbeit unterstützen möchtest, kannst du mir gerne einen Kaffee spendieren!
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/myromiles)
