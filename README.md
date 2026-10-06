@@ -1,17 +1,10 @@
-# mediathek_app
+# Mediathek App
 
-A new Flutter project.
+Eine App für den Zugriff auf Mediathek-Inhalte.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### ☕ Support My Work
+Wenn dir meine Projekte gefallen und du meine Arbeit unterstützen möchtest, kannst du mir gerne einen Kaffee spendieren!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/myromiles)
